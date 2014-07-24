@@ -24,7 +24,7 @@ mtcars$cyl <- factor(mtcars$cyl)
 ```
 
 
-#### Explotory Data Analysis
+#### Exploratory Data Analysis
 
 The first step of our analysis is to simply explore the relationship between transmission type and mpg (Appedix: Figure 1). We see that on mtcars, the mean mileage of automatic transmission is 17.147 mpg and the manual transmission is 24.392 mpg.The graph below hints at an increase in mpg when transmission type was manual.This data may have other variables which may play a bigger role in determination of mpg.
 
